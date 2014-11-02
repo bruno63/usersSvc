@@ -1,0 +1,73 @@
+[
+	{ 
+		"tid": "tenantA",
+		"appid": "things",
+		"logo": "fa-pencil",
+		"category": "Productivity", 	
+		"name": [
+			{	"locale": "en", "text":	"Notes"	},
+			{	"locale": "de", "text":	"Notizen" }
+		],
+		"desc": [
+			{	"locale": "en", "text": "Synchronize Notes instantly over several clients" },
+			{	"locale": "de", "text": "Notizen sofort über mehrere Klienten synchronisieren" }
+		]
+	},
+	{
+		"tid": "tenantA",
+		"appid": "presents",	
+		"logo": "fa-gift", 
+		"category": "Home", 
+		"name": [
+			{	"locale": "en", "text":	"Presents"	},
+			{	"locale": "de", "text":	"Geschenke" }
+		],
+		"desc": [
+			{	"locale": "en", "text": "Administer gifts given and received" },
+			{	"locale": "de", "text": "Geschenke verwalten" }
+		]
+	},
+	{
+		"tid": "tenantA",
+	 	"appid": "menutest",
+	 	"logo": "fa-tumblr",
+		"category": "Test", 
+		"name": [
+			{	"locale": "en", "text":	"MenuTest"	},
+			{	"locale": "de", "text":	"MenuTest" }
+		],
+		"desc": [
+			{	"locale": "en", "text": "Test application with a more complex menu structure" },
+			{	"locale": "de", "text": "Test Applikation zeigt komplexere Menu Struktur" }
+		]
+	},
+	{ 
+		"tid": "tenantA",
+		"appid": "apps",
+		"logo": "fa-cubes",
+		"category": "System",
+		"name": [
+			{	"locale": "en", "text":	"Apps"	},
+			{	"locale": "de", "text":	"Apps" }
+		],
+		"desc": [
+			{	"locale": "en", "text": "Registry of all available applications" },
+			{	"locale": "de", "text": "Uebersicht über alle verfügbaren Applikationen" }
+		]
+	},
+	{
+		"tid": "tenantA",
+		"appid": "puzzle",
+		"logo": "fa-puzzle-piece",
+		"category": "Games",
+		"name": [
+			{	"locale": "en", "text":	"Puzzle"	},
+			{	"locale": "de", "text":	"Puzzle" }
+		],
+		"desc": [
+			{	"locale": "en", "text": "Enjoy a simple puzzle game" },
+			{	"locale": "de", "text": "Entspannen bei einem Puzzle Spiel" }
+		]
+	}
+]
+

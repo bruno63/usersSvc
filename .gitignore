@@ -1,0 +1,8 @@
+# ignore packages installed by npm
+node_modules
+swagger-ui
+*~
+.DS_Store
+*.bak
+credentials.js
+log
